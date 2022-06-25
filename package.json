@@ -1,0 +1,19 @@
+{
+  "name": "@backlight-dev/webmeister.stitches-l4u3zsvk",
+  "version": "0.0.2",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve EP1JrgGSZEFpWsYhlxY1 --open"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@stitches/react": "*",
+    "@mdx-js/react": "*",
+    "react": "^17",
+    "react-dom": "^17",
+    "@divriots/dockit-react": "*"
+  }
+}
